@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Coffee & Biscuits Challenge
 
 You can use the [editor on GitHub](https://github.com/Coffee-Biscuits/coffee-biscuits.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
